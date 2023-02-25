@@ -7,11 +7,11 @@
 </div>
 <br/>
 
-This [refine](https://github.com/pankod/refine) project was generated with [superplate](https://github.com/pankod/refine).
+This project was created with Refine
 
 ## Getting Started
 
-**refine** is a React-based framework for building data-intensive applications in no time ✨
+**Refine** is a React-based framework for building data-intensive applications in no time ✨
 
 Refine offers lots of out-of-the box functionality for rapid development, without compromising extreme customizability. Use-cases include, but are not limited to admin panels, B2B applications and dashboards.
 
